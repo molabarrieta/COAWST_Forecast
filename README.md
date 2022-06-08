@@ -1,6 +1,6 @@
 # This repostory contains the code developed within the NOPP project
 
-Description:
+## Description:
 
 The main goal of these scripts is to:
 
